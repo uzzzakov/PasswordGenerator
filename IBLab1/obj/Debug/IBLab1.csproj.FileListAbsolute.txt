@@ -1,0 +1,10 @@
+C:\Users\Manucho\source\repos\IBLab1\bin\Debug\IBLab1.exe.config
+C:\Users\Manucho\source\repos\IBLab1\bin\Debug\IBLab1.exe
+C:\Users\Manucho\source\repos\IBLab1\bin\Debug\IBLab1.pdb
+C:\Users\Manucho\source\repos\IBLab1\obj\Debug\IBLab1.csprojAssemblyReference.cache
+C:\Users\Manucho\source\repos\IBLab1\obj\Debug\IBLab1.Form1.resources
+C:\Users\Manucho\source\repos\IBLab1\obj\Debug\IBLab1.Properties.Resources.resources
+C:\Users\Manucho\source\repos\IBLab1\obj\Debug\IBLab1.csproj.GenerateResource.cache
+C:\Users\Manucho\source\repos\IBLab1\obj\Debug\IBLab1.csproj.CoreCompileInputs.cache
+C:\Users\Manucho\source\repos\IBLab1\obj\Debug\IBLab1.exe
+C:\Users\Manucho\source\repos\IBLab1\obj\Debug\IBLab1.pdb
